@@ -11,6 +11,8 @@ Before you start, clone the [starter code](https://github.com/coding-boot-camp/s
 > This Challenge will ask you to combine several tasks that you’ve learned over this module and the previous one to add offline functionality to an existing application. We’ve outlined how you can achieve this in the Getting Started section below.
 
 
+Access to the [test video](https://drive.google.com/file/d/1mvAwYsN37fC6yJhZ0DL4ZFqGPRjzyoiZ/view?usp=sharing)
+
 ## User Story
 
 ```md
